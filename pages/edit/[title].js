@@ -50,7 +50,7 @@ const Edit = () => {
     console.log(todo)
   }
   return (
-    <div classNameName="my-2 text-3xl">
+    <div className="my-2 text-3xl">
     <section className="text-gray-600 body-font">
       <div className="container px-5 py-24 mx-auto flex flex-wrap items-center">
          
